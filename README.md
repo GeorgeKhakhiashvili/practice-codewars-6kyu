@@ -1,2 +1,1 @@
-this is some popular 6kyu project..
-first upload btw
+some code wars 6kyu kata projects...
