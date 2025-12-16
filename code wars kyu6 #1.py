@@ -1,4 +1,4 @@
-def ragaca(txt):
+def first(txt):
     saparated_list = txt.split()
     new_list = []
     for word in saparated_list:
@@ -8,4 +8,5 @@ def ragaca(txt):
         elif len(word) <= 4:
             new_list.append(word)
     return " ".join(new_list)
-print(ragaca("you will never walk alone"))
+
+print(first("you will never walk alone"))
